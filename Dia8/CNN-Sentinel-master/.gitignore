@@ -1,0 +1,6 @@
+*.DS_Store
+.vscode/
+data/PyCon
+py/.ipynb_checkpoints/
+__*
+py/logs/
